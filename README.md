@@ -381,10 +381,16 @@ const settings = {
 5. Push: `git push origin feature/new-feature`
 6. Submit a pull request
 
+## 👤 Author
+
+**Ernani Britto**
+
+- GitHub: [@ernanibmurtinho](https://github.com/ernanibmurtinho)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Built with ❤️ for the Alchemy Ethereum Bootcamp Week 3**
+**Built with ❤️ by Ernani Britto for the Alchemy Ethereum Bootcamp Week 3**
